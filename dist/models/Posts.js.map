@@ -1,0 +1,1 @@
+{"version":3,"file":"Posts.js","sourceRoot":"","sources":["../../src/models/Posts.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;AAAA,mDAAmD;AAWnD,IAAM,WAAW,GAAW,IAAI,iBAAM,CAAC;IACnC,SAAS,EAAE,MAAM;IACjB,IAAI,EAAE,MAAM;IACZ,QAAQ,EAAE,MAAM;IAChB,SAAS,EAAE,MAAM;IACjB,IAAI,EAAE,MAAM;CACf,CAAC,CAAA;AAEF,kBAAe,kBAAQ,CAAC,KAAK,CAAQ,MAAM,EAAE,WAAW,CAAC,CAAA"}
